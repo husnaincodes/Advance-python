@@ -2,13 +2,13 @@
 class Empolyee:
     language = "python"
     salary = 800000
+my_user = Empolyee()
+my_user.name = "USER"
+print(my_user.name,my_user.language,my_user.salary)
+
+
+
 user = Empolyee()
-user.name = "USER"
+user.language = "java"
+user.name = "USER2"
 print(user.name,user.language,user.salary)
-
-
-
-user2 = Empolyee()
-user2.language = "java"
-user2.name = "USER2"
-print(user2.name,user2.language,user2.salary)
