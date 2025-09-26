@@ -3,8 +3,7 @@ string = """"Python is a high-level, general-purpose programming language create
 It is one of the most popular languages today because it is:
 
 ✅ Easy to learn – simple English-like syntax
-✅ Versatile – used in web development, data science, artificial intelligence, automation, finance, etc.
-✅ Beginner-friendly – perfect for starting your programming journey . Python is very natural laanguage of computer"""
+✅ Versatile – used in web development, data science, artificial intelligence, automation, finance, etc."""
 
 
 
