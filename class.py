@@ -1,9 +1,12 @@
 
 class Empolyee:
     language = "python"
+
     salary = 800000
 my_user = Empolyee()
+
 my_user.name = "USER"
+
 print(my_user.name,my_user.language,my_user.salary)
 
 
