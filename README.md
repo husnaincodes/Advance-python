@@ -82,4 +82,4 @@ This project is open-source and available under the <a href="LICENSE">MIT Licens
 
 <hr>
 
-<p align="center">Made with ❤️ by <strong>Husnain</strong></p>
+<p align="center">Made by <strong>Husnain Tayab</strong></p>
