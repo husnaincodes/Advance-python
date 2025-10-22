@@ -5,7 +5,6 @@ def greater (number1 ,number2, number3):
     if(number1>number2):
 
         return f"THE LARGEST NUMBER IS :{number1}"
-    
     elif(number2>number3):
      return f"THE LARGEST NUMBER IS :{number2}"
 
