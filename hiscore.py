@@ -5,7 +5,7 @@ def game():
 
  print("You are playing the game... ")
 
- score = random.randint(1,50)
+ score = random.randint(1,100)
 
  with open("hiscore.txt") as file:
 
