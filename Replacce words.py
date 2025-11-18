@@ -1,4 +1,4 @@
-word = "Physics "
+word = "Physics"
 with open("my_file2.txt") as file :
     content = file.read()
 
