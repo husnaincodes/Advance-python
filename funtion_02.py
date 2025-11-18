@@ -10,6 +10,3 @@ def GoodDay(name, ending = "Thank you!"):
 a = GoodDay("User", "Thanks")
 
 GoodDay("User2")
-
-
-print(a)
