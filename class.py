@@ -10,8 +10,6 @@ my_user.name = "USER"
 
 print(my_user.name,my_user.language,my_user.salary, "Age",my_user.age)
 
-
-
 user = Empolyee()
 user.language = "java"
 user.name = "USER2"
