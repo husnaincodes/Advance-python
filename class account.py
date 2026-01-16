@@ -17,3 +17,8 @@ class Account:
     def get_balance(self):
         return self.balance
     
+
+
+acc1= Account(10000,1234)
+print(acc1.balance)
+print(acc1.account_no)
