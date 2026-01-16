@@ -9,3 +9,9 @@ class Account:
         else:
             self.balance=-amount
             print(f"RS {amount} was debited")
+            print(f"Total balance : {self.get_balance()}")
+    def credit(self,amount):
+        self.balance=+amount
+        print(f"RS {amount} was Credited")
+        print(f"Total balance : {self.get_balance()}")
+        
