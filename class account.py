@@ -14,4 +14,6 @@ class Account:
         self.balance=+amount
         print(f"RS {amount} was Credited")
         print(f"Total balance : {self.get_balance()}")
-        
+    def get_balance(self):
+        return self.balance
+    
