@@ -22,3 +22,8 @@ class Account:
 acc1= Account(10000,1234)
 print(acc1.balance)
 print(acc1.account_no)
+
+acc1.debit(1000)
+acc1.credit(500)
+acc1.debit(10000)
+acc1.credit(40000)
