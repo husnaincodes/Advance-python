@@ -10,7 +10,7 @@ p = np.arange(len(language))
 p1 = [j+width for j in p]
 
 plt.title("Programming Languages",fontsize=20)
-plt.barh(p,demand,width,color="black",label="Popularity",)
+plt.barh(p,demand,width,color="b",label="Popularity",)
 plt.barh(p1,demand2,width,color="r",label="Popularity",)
 plt.xlabel("Language")
 plt.ylabel("Demand")
