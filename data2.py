@@ -1,9 +1,9 @@
 import matplotlib.pyplot as plt
 import numpy as np
  
-language = ["python","c","c++","java","react"]
-demand = [80,70,75,78,64]
-demand2 = [60,50,45,38,24]
+language = ["python","c","c++","java","react","html"]
+demand = [80,70,75,78,64,55]
+demand2 = [60,50,45,38,24,14]
 col = ["y","g","hotpink","b","black"]
 width = 0.2
 p = np.arange(len(language))
