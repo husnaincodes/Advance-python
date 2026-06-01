@@ -10,7 +10,7 @@ confidence = 0.90
 
 z = norm.ppf(1 - (1 - confidence) / 2)
 
-# Standard error
+
 SE = sigma / math.sqrt(n)
 
 # Margin of error
