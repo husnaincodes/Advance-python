@@ -1,13 +1,13 @@
 import math
 from scipy.stats import norm
 
-# Given values
+
 x_bar = 10.455
 sigma = 7.7
 n = 44
 confidence = 0.90
 
-# Z critical value
+
 z = norm.ppf(1 - (1 - confidence) / 2)
 
 # Standard error
